@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## David kim
+- 🔭 I’m currently working on WT
+- 🌱 I’m currently learning react-native
+- 📫 How to reach me: ds2lvg@gmail.co
+m
 <!--
 **ds2lvg/ds2lvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
