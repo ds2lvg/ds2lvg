@@ -1,8 +1,9 @@
 ## David kim
 - 🔭 I’m currently working on WT
 - 🌱 I’m currently learning react-native
+- 👯 I’m looking for developer friend 
+- 😄 I'm not afraid to develop that I haven't done yet.
 - 📫 How to reach me: ds2lvg@gmail.com
-- 😄 I'm not afraid to develop that I have didn't yet.
 
 <!--
 **ds2lvg/ds2lvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
