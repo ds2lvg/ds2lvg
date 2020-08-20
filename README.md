@@ -1,8 +1,9 @@
 ## Alexander kim
+- 😄 Hello Hello Hello How Low 
 - 🔭 I’m currently working on WT
 - 🌱 I’m currently learning react-native
-- 👯 I’m looking for developer friend 
-- 😄 I'm not afraid to develop that I haven't done yet.
+- 👯 I’m looking for developer friends
+- 🤔 I'm not afraid to develop that I haven't done yet
 - 📫 How to reach me: ds2lvg@gmail.com
 
 <!--
