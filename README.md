@@ -1,4 +1,4 @@
-## David kim
+## Alexander kim
 - 🔭 I’m currently working on WT
 - 🌱 I’m currently learning react-native
 - 👯 I’m looking for developer friend 
