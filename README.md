@@ -6,6 +6,8 @@
 - 🤔 I'm not afraid to develop that I haven't done yet
 - 📫 How to reach me: ds2lvg@gmail.com
 
+<img src="https://wakatime.com/share/@5e5d5b41-4635-4edc-9465-b12a83b5d456/981f34e7-6da6-4d79-8b0f-570d1eff8598.png" />
+
 <!--
 **ds2lvg/ds2lvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
