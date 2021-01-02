@@ -10,4 +10,4 @@
 
 ### My programing language in 2020
 
-<img src="https://ci3.googleusercontent.com/proxy/4cI_zevqg3tBda2eh_-TiD6QlojDQEAFr_T-_rnJ1grK5NVx1CaG4AGHWfJaYSVSFjrd9kMOWkONVpHPWeOjleUgAh9sk2Ib9axVkYj0-5Y=s0-d-e1-ft#https://wakatime.com/share/all-users-stats/2020-languages.png" />
+<img src="https://wakatime.com/share/@5e5d5b41-4635-4edc-9465-b12a83b5d456/2c4962e2-5c33-4770-b366-119c16f9ae46.png" width="650" height="487" />
